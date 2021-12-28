@@ -1,0 +1,2 @@
+# WebPage
+A Login form is used to enter authentication credentials to access a restricted page or form. The login form contains a field for the username and another for the password. When the login form is submitted its underlying code checks that the credentials are authentic, giving the user can access the restricted page. If a user is not able to provide authentic credentials they will not be able to proceed past the login form.
